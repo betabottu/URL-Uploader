@@ -11,6 +11,6 @@ class Button(object):
                                             InlineKeyboardButton(text="🔍 ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat="2 ") ],
                                           [ InlineKeyboardButton(text="📁 1337x", callback_data='00'),
                                             InlineKeyboardButton(text="🔍 ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat="3 " ) ],
-                                          [ InlineKeyboardButton(text="📁 LazyWay", callback_data='00'),
+                                          [ InlineKeyboardButton(text="📁 MoviezAddaKan", callback_data='00'),
                                             InlineKeyboardButton(text="🔍 ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat="4 ") ],
                                           [ InlineKeyboardButton(text="❌", callback_data="X0") ] ] )
