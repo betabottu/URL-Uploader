@@ -48,7 +48,7 @@ async def start(bot, update):
                     InlineKeyboardButton(
                         "Updates Channel", url="https://t.me/MoviezAddaKan"
                     ),
-                    InlineKeyboardButton("Dev Channel 👨🏻‍💻", url="https://telegram.me/ moviezAddaKan"),
+                    InlineKeyboardButton("Dev Channel 👨🏻‍💻", url="https://telegram.me/MoviezAddaKan"),
                 ],
                 [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/captblacknight")],
             ]
